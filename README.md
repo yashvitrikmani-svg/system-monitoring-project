@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
 ### 🔐 Login + Dashboard
-![Combined](combined.png)
+![Combined](combine.png)
 
 ### 📈 Chart
 ![Chart](chart.png)# system-monitoring-project
